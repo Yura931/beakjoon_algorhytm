@@ -9,7 +9,7 @@ public class Baek_1271 {
 		
 		// 생명체 수
 		BigInteger a = sc.nextBigInteger();
-		
+		 
 		// 분배할 돈 
 		BigInteger b = sc.nextBigInteger();
         
